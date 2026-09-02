@@ -8,7 +8,8 @@ The Destination Service manages core travel entities in the TripDiary applicatio
 ## 🎯 Mandatory Information
 - **Student Name**: Dulanji Amanda Sathsarani
 - **Student Number**: 241722009
-- **GCP Project ID**: project-00e6ad8d-07ac-4315-820
+- **GCP Project ID**: my-diary-project-507309
+- **Slack Handle**: Amanda Sathsarani
 
 ---
 
